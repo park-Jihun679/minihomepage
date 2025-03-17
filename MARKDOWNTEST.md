@@ -2,11 +2,11 @@
 
 ## 목차
 
-- [Git이란?]()
-- Git 기본 명령어
-- 브랜치와 병합
-- GitHub 사용
-- 추가 리소스
+- [Git이란?](#git이란)
+- [Git 기본 명령어](#git-기본-명령어)
+- [브랜치와 병합](#)
+- [GitHub 사용](#github-사용)
+- [추가 리소스](#추가-리소스)
 
 ---
 
@@ -54,8 +54,7 @@ git remote add origin <GitHub 저장소 URL>
 git push origin main
 ```
 
-![Git 로고]
-(URL: https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
+![Git 로고](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
 
 ---
 
