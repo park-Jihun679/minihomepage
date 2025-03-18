@@ -21,6 +21,10 @@
 
 - cart.md 파일 추가
 
+## 사이드 바
+
+- sidebar.md 파일 추가
+
 ## 푸터
 
 - footer.md 추가
